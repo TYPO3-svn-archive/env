@@ -1,0 +1,5 @@
+# cat=env; type=string; label=Current environment: Pages and tt_content records are only visible if _they_ have no environment set or _this_ environment is in their list. You can use this feature to create pages or content elements on TYPO3 instances that share (or copy) the same database (e.g. "Live", "Integration", "DeveloperA", "DeveloperB"). 
+environment =
+
+# cat=env; type=string; label=All available environments: Don't forget to include the current one here
+allEnvironments = live,integration
