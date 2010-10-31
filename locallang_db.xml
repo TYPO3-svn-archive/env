@@ -7,8 +7,7 @@
 	<data type="array">
 		<languageKey index="default" type="array">
 			<label index="tab">Environments</label>
-			<label index="tt_content.tx_env_env">Environments</label>
-			<label index="pages.tx_env_env">Environments</label>
+			<label index="tx_env_env">Environments</label>
 		</languageKey>
 	</data>
 </T3locallang>
